@@ -1,2 +1,2 @@
 # Vanderbilt-Project-
-This section is for my PhD project from Vandy!
+This is for my PhD project from Vandy!
